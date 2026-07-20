@@ -31,4 +31,4 @@ PostgreSQL, and automated testing.
 ## Connect
 
 - [LinkedIn](www.linkedin.com/in/manoj-ravichandran-8b53b02b2)
-- [Email](mailto:manojravi04@gmail.com)**
+- [Email](mailto:manojravi04@gmail.com)
