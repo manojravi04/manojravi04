@@ -1,16 +1,34 @@
-## Hi there 👋
+**# Hi, I'm Manoj 👋
 
-<!--
-**manojravi04/manojravi04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a fourth-year Software Engineering student at York University interested in
+full-stack, mobile, and software testing roles.
 
-Here are some ideas to get you started:
+I enjoy building practical applications with React, Python, FastAPI, Flutter,
+PostgreSQL, and automated testing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Work
+
+- **BookAtlas** — Book discovery and library platform built with React,
+  FastAPI, PostgreSQL, Supabase, and Vitest.
+- **BrickByBrick** — Flutter construction-management application for project
+  and task tracking.
+- **DeployWatch** — Application uptime and reliability dashboard. Coming soon.
+
+## Currently Working On
+
+- Deploying and testing BookAtlas
+- Improving BrickByBrick persistence and demo readiness
+- Building DeployWatch
+
+## Technologies
+
+**Languages:** Java, Python, Dart, JavaScript, TypeScript, SQL  
+**Frontend:** React, Tailwind CSS, Flutter  
+**Backend:** FastAPI, REST APIs  
+**Data:** PostgreSQL, Supabase  
+**Testing:** Vitest, JUnit
+
+## Connect
+
+- [LinkedIn](www.linkedin.com/in/manoj-ravichandran-8b53b02b2)
+- [Email](mailto:manojravi04@gmail.com)**
