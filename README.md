@@ -1,4 +1,4 @@
-**# Hi, I'm Manoj 👋
+Hi, I'm Manoj 👋
 
 I'm a fourth-year Software Engineering student at York University interested in
 full-stack, mobile, and software testing roles.
